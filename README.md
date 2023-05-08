@@ -5,6 +5,10 @@ From NERSC, you can load the tensorflow module with
 module load tensorflow
 ```
 
+# Data
+To train the model using the [CaloGAN](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.014021) dataset you can download the files from [here](https://data.mendeley.com/datasets/pvn3xc3wy5/1)
+
+
 Let's first run a baseline model using a VAE:
 
 ```bash
